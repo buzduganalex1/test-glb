@@ -117,6 +117,58 @@
   {
   "type": "Feature",
   "properties": {
+    "ID": "tree1-test-3",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.72805794366695
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.72805794366695, 52.02351503207891]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ID": "tree1-test-4",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.72810178520223
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.72810178520223, 52.02351503207891]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ID": "tree1-test-5",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.72814562673751
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.72814562673751, 52.02351503207891]
+  }
+},
+{
+  "type": "Feature",
+  "properties": {
+    "ID": "tree1-test-6",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.72818946827279
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [4.72818946827279, 52.02351503207891]
+  }
+},
+  {
+  "type": "Feature",
+  "properties": {
     "ID": "tree1-test-2",
     "FUNCTION": "tree1",
     "LATITUDE": 52.02351503207891,
