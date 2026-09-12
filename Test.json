@@ -113,7 +113,25 @@
       "WATER_TRANSPIRATION_FACTOR" : [ 0.0 ],
       "ZONING_PERMIT_REQUIRED" : [ 0.0 ]
     }
-  }, {
+  },
+  {
+  "type": "Feature",
+  "properties": {
+    "ID": "tree1-test",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.727970260596388
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.727970260596388,
+      52.02351503207891
+    ]
+  }
+} 
+  ,
+  {
     "type" : "Feature",
     "geometry" : {
       "type" : "MultiPolygon",
