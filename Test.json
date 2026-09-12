@@ -117,6 +117,22 @@
   {
   "type": "Feature",
   "properties": {
+    "ID": "tree1-test-2",
+    "FUNCTION": "tree1",
+    "LATITUDE": 52.02351503207891,
+    "LONGITUDE": 4.72801410213167
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      4.72801410213167,
+      52.02351503207891
+    ]
+  }
+},
+  {
+  "type": "Feature",
+  "properties": {
     "ID": "tree1-test",
     "FUNCTION": "tree1",
     "LATITUDE": 52.02351503207891,
