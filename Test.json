@@ -114,45 +114,6 @@
       "ZONING_PERMIT_REQUIRED" : [ 0.0 ]
     }
   },
-  {
-  "type": "Feature",
-  "properties": {
-    "ID": "tree1-test-7",
-    "FUNCTION": "tree1",
-    "LATITUDE": 52.02351503207891,
-    "LONGITUDE": 4.72823330980807
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.72823330980807, 52.02351503207891]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "ID": "tree1-test-8",
-    "FUNCTION": "tree1",
-    "LATITUDE": 52.02351503207891,
-    "LONGITUDE": 4.72827715134335
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.72827715134335, 52.02351503207891]
-  }
-},
-{
-  "type": "Feature",
-  "properties": {
-    "ID": "tree1-test-9",
-    "FUNCTION": "tree1",
-    "LATITUDE": 52.02351503207891,
-    "LONGITUDE": 4.72832099287863
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [4.72832099287863, 52.02351503207891]
-  }
-},
 {
   "type": "Feature",
   "properties": {
