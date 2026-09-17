@@ -80,7 +80,7 @@
 				"type" : "Point",
 				"coordinates" : [ 5.8555257638, 51.7888143488 ]
 			},
-			"Function":"tree1",
+			"FUNCTION":"tree1",
 			"properties" : {
 				"object_name" : "Boom 1ste grootte",
 				"object_height" : 21,
