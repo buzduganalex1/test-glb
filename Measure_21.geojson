@@ -9,7 +9,7 @@
 				"coordinates" : [ 5.8537371309, 51.7887416212 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -21,7 +21,7 @@
 				"coordinates" : [ 5.8536662275, 51.789173657 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -57,7 +57,7 @@
 				"coordinates" : [ 5.8544489459, 51.788854764 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -69,7 +69,7 @@
 				"coordinates" : [ 5.854370287, 51.7890555016 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -82,7 +82,7 @@
 			},
 			"FUNCTION":"tree1",
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -94,7 +94,7 @@
 				"coordinates" : [ 5.8549323365, 51.7887827101 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -130,7 +130,7 @@
 				"coordinates" : [ 5.8557390041, 51.7892309156 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -154,7 +154,7 @@
 				"coordinates" : [ 5.8548303893, 51.7889435715 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -202,7 +202,7 @@
 				"coordinates" : [ 5.8553284993, 51.7890976775 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -214,7 +214,7 @@
 				"coordinates" : [ 5.854971252, 51.7893159142 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -238,7 +238,7 @@
 				"coordinates" : [ 5.8545031619, 51.789218438 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -262,7 +262,7 @@
 				"coordinates" : [ 5.8551950871, 51.7887874173 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -298,7 +298,7 @@
 				"coordinates" : [ 5.8535803868, 51.7891551876 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -394,7 +394,7 @@
 				"coordinates" : [ 5.854662404, 51.7887808147 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -406,7 +406,7 @@
 				"coordinates" : [ 5.8553039765, 51.7889070729 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -442,7 +442,7 @@
 				"coordinates" : [ 5.8556959494, 51.7890046839 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -478,7 +478,7 @@
 				"coordinates" : [ 5.855711395, 51.788931552 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -538,7 +538,7 @@
 				"coordinates" : [ 5.8547051973, 51.7891969143 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1bH16D12_GO",
+				"object_name" : "TreeBol1bH16D12_GO2",
 				"object_height" : 15,
 				"tree_crown_diameter" : 10.91
 			}
@@ -562,7 +562,7 @@
 				"coordinates" : [ 5.8553824103, 51.7887983139 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 21,
 				"tree_crown_diameter" : 14
 			}
@@ -586,7 +586,7 @@
 				"coordinates" : [ 5.8542104276, 51.7886589313 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -598,7 +598,7 @@
 				"coordinates" : [ 5.8535761096, 51.7887441724 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -610,7 +610,7 @@
 				"coordinates" : [ 5.8543326278, 51.7892295052 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -622,7 +622,7 @@
 				"coordinates" : [ 5.855898406, 51.7890036508 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -634,7 +634,7 @@
 				"coordinates" : [ 5.8544716243, 51.7892425308 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -646,7 +646,7 @@
 				"coordinates" : [ 5.8536161217, 51.788612686 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -658,7 +658,7 @@
 				"coordinates" : [ 5.8545609651, 51.7892509121 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -670,7 +670,7 @@
 				"coordinates" : [ 5.8538353528, 51.7891817418 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -682,7 +682,7 @@
 				"coordinates" : [ 5.8536634971, 51.789165626 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -694,7 +694,7 @@
 				"coordinates" : [ 5.855892386, 51.7890717341 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -706,7 +706,7 @@
 				"coordinates" : [ 5.8558538045, 51.789247238 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -718,7 +718,7 @@
 				"coordinates" : [ 5.8551255344, 51.7891752649 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -730,7 +730,7 @@
 				"coordinates" : [ 5.8553372061, 51.7891950458 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -742,7 +742,7 @@
 				"coordinates" : [ 5.8547309982, 51.7891073972 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -754,7 +754,7 @@
 				"coordinates" : [ 5.8537810207, 51.7891766484 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -766,7 +766,7 @@
 				"coordinates" : [ 5.8550795823, 51.7888940294 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -778,7 +778,7 @@
 				"coordinates" : [ 5.8543960806, 51.7886987536 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -790,7 +790,7 @@
 				"coordinates" : [ 5.8537231375, 51.7891712225 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -802,7 +802,7 @@
 				"coordinates" : [ 5.8548644685, 51.7891174134 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -814,7 +814,7 @@
 				"coordinates" : [ 5.8535844533, 51.7887023558 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -826,7 +826,7 @@
 				"coordinates" : [ 5.8543203337, 51.7886866892 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -838,7 +838,7 @@
 				"coordinates" : [ 5.8555649843, 51.7892242231 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -850,7 +850,7 @@
 				"coordinates" : [ 5.8535211602, 51.7889702604 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -862,7 +862,7 @@
 				"coordinates" : [ 5.8537105457, 51.7889793244 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -874,7 +874,7 @@
 				"coordinates" : [ 5.853530005, 51.7889282282 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -886,7 +886,7 @@
 				"coordinates" : [ 5.8536046917, 51.7886541792 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -898,7 +898,7 @@
 				"coordinates" : [ 5.8539457091, 51.7891920904 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -910,7 +910,7 @@
 				"coordinates" : [ 5.8558789518, 51.7891309421 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -922,7 +922,7 @@
 				"coordinates" : [ 5.8535525236, 51.7891552235 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -934,7 +934,7 @@
 				"coordinates" : [ 5.8540049719, 51.789197651 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -946,7 +946,7 @@
 				"coordinates" : [ 5.8557094271, 51.7892362785 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -958,7 +958,7 @@
 				"coordinates" : [ 5.8552279391, 51.789184832 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -970,7 +970,7 @@
 				"coordinates" : [ 5.8543988619, 51.7892357126 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -982,7 +982,7 @@
 				"coordinates" : [ 5.8559113246, 51.7889338786 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
@@ -994,7 +994,7 @@
 				"coordinates" : [ 5.8558448072, 51.7889512071 ]
 			},
 			"properties" : {
-				"object_name" : "TreeBol1aBH22D14_GO",
+				"object_name" : "TreeBol1aBH22D14_GO2",
 				"object_height" : 24,
 				"tree_crown_diameter" : 16.5
 			}
