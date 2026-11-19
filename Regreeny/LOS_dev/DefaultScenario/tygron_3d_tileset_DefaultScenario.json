@@ -1,6 +1,6 @@
 {
   "asset" : {
-    "tilesetVersion" : "13236",
+    "tilesetVersion" : "31006",
     "version" : "1.1"
   },
   "geometricError" : 1000.0,
@@ -21,7 +21,7 @@
           "boundingVolume" : {
             "region" : [ 0.10212232009619888, 0.9038495067758558, 0.10224906092699529, 0.9039278995730003, -237.31700038909912, 262.6829996109009 ]
           },
-          "uri" : "7.gltf?token=73e64d766P2kkW73JSqcD4aGrTE2TBS8&maptype=MAQUETTE&style=COLORED&custom=false&detail=true&spacing=1.0&texture=LARGE"
+          "uri" : "7.gltf?token=73e64d766P2kkW73JSqcD4aGrTE2TBS8&maptype=CURRENT&style=COLORED&custom=false&detail=true&spacing=1.0&texture=LARGE"
         },
         "geometricError" : 10.0,
         "refine" : "ADD"
@@ -30,7 +30,7 @@
         "boundingVolume" : {
           "region" : [ 0.10212232009619888, 0.9038495067758558, 0.10224906092699529, 0.9039278995730003, -987.3170003890991, 1012.6829996109009 ]
         },
-        "uri" : "7.gltf?token=73e64d766P2kkW73JSqcD4aGrTE2TBS8&maptype=MAQUETTE&style=COLORED&custom=false&detail=false&spacing=1.0&texture=LARGE"
+        "uri" : "7.gltf?token=73e64d766P2kkW73JSqcD4aGrTE2TBS8&maptype=CURRENT&style=COLORED&custom=false&detail=false&spacing=1.0&texture=LARGE"
       },
       "geometricError" : 1.0,
       "refine" : "ADD",
