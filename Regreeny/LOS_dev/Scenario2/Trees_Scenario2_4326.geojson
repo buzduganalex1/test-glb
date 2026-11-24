@@ -18,10 +18,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 5.8535525236, 51.7891552235 ]
+				"coordinates" : [ 5.8535231427, 51.78892543 ]
 			},
 			"properties" : {
-				"object_name" : "Boom 1ste grootte",
+				"object_name" : "B-GR-Boom 1ste grootte",
 				"object_height" : 8,
 				"tree_crown_diameter" : null
 			}
@@ -30,406 +30,10 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 5.8558448073, 51.7889512072 ]
+				"coordinates" : [ 5.8552206847, 51.7891838529 ]
 			},
 			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8558789518, 51.7891309421 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8559113246, 51.7889338787 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8538353528, 51.7891817418 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8544716243, 51.7892425308 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8543988619, 51.7892357126 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8545609651, 51.7892509121 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8558538045, 51.789247238 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8535299905, 51.7889282283 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8537105457, 51.7889793244 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8553372061, 51.7891950459 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8535761096, 51.7887441724 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8542104277, 51.7886589313 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8535844533, 51.7887023559 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8550795823, 51.7888940294 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8551255344, 51.789175265 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8537231376, 51.7891712225 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8536046917, 51.7886541792 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8536635043, 51.789165626 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8540050083, 51.789197651 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8543326278, 51.7892295052 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8557094271, 51.7892362785 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8537810207, 51.7891766484 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8539457091, 51.7891920904 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8548644685, 51.7891174135 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.855892386, 51.7890717341 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.855898406, 51.7890036508 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8543203337, 51.7886866892 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8552279391, 51.789184832 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8536161217, 51.788612686 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8547309982, 51.7891073972 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8543960807, 51.7886987536 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8555649843, 51.7892242231 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
-				"object_height" : 8,
-				"tree_crown_diameter" : null
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 5.8535211602, 51.7889702604 ]
-			},
-			"properties" : {
-				"object_name" : "Boom 1ste grootte",
+				"object_name" : "B-GR-Boom 1ste grootte",
 				"object_height" : 8,
 				"tree_crown_diameter" : null
 			}
@@ -9216,6 +8820,990 @@
 				"object_name" : "B-GR-Boom 1ste grootte",
 				"object_height" : 11.6,
 				"tree_crown_diameter" : null
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8542753619, 51.7891753907 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8536201955, 51.7890085197 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.854203805, 51.7891728305 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.854165405, 51.7892229206 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.853808666, 51.788618579 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8557925156, 51.7888312372 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8547783155, 51.789173109 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8537763659, 51.7890769803 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8545280187, 51.7891601733 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546874206, 51.788988622 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8556517981, 51.7889133522 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8545392744, 51.7892111706 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8539081079, 51.7891738995 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8536816804, 51.7891052772 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546866945, 51.7888458797 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8539711396, 51.7886351259 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8554062941, 51.7888138458 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8542770394, 51.7892273852 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.854068374, 51.789157092 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8552029225, 51.7887928432 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8548756007, 51.7892049094 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8549634747, 51.7893012537 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8540875594, 51.7886371382 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546034607, 51.7891301605 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8545747479, 51.7890848495 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8535979093, 51.7890826846 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8538768608, 51.7886922857 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8553640019, 51.7890189132 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8553633047, 51.7889518539 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8552843554, 51.7890950813 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546084858, 51.7889444967 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8545411479, 51.7887258199 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8548778228, 51.7888200891 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8547802907, 51.78893316 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8538663821, 51.789105933 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8550676586, 51.789282964 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546689105, 51.7887360247 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8553623752, 51.7888722003 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8555572724, 51.7888337345 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 21,
+				"tree_crown_diameter" : 14.07
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8549087868, 51.7889128671 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8541004199, 51.7892142069 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8549902922, 51.7892217618 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8544313871, 51.7891687162 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8548186544, 51.7890144575 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8546296319, 51.7891962406 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 3rde grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8538492808, 51.7887583029 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8548619414, 51.7887532634 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 2de grootte",
+				"object_height" : 15,
+				"tree_crown_diameter" : 10.95
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8542104277, 51.7886589313 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8543326278, 51.7892295052 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8535761096, 51.7887441724 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.855898406, 51.7890036508 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8544716243, 51.7892425308 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8536161217, 51.788612686 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8545609651, 51.7892509121 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8538353528, 51.7891817418 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8536635043, 51.789165626 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.855892386, 51.7890717341 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8558538045, 51.789247238 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8551255344, 51.789175265 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8553372061, 51.7891950459 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8547309982, 51.7891073972 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8537810207, 51.7891766484 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8550795823, 51.7888940294 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8537231376, 51.7891712225 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8548644685, 51.7891174135 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8543960807, 51.7886987536 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8535844533, 51.7887023559 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8543203337, 51.7886866892 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8535211602, 51.7889702604 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8555649843, 51.7892242231 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8537105457, 51.7889793244 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.853530005, 51.7889282283 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8536046917, 51.7886541792 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8539457091, 51.7891920904 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8558789518, 51.7891309421 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8535525236, 51.7891552235 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8540050083, 51.789197651 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8557094271, 51.7892362785 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8552279391, 51.789184832 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8559113246, 51.7889338787 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8543988619, 51.7892357126 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 5.8558448073, 51.7889512072 ]
+			},
+			"properties" : {
+				"object_name" : "Boom 1ste grootte",
+				"object_height" : 24,
+				"tree_crown_diameter" : 16.56
 			}
 		}
 	]
